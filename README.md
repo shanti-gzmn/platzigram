@@ -22,7 +22,9 @@ This app can create users with some demographic data and images.
 
 ## Installation
 
-This project runs on Python 3.10.6 and Flask. Follow these steps to set it up locally:
+This project runs on Python 3.10.6 and Django 4.2.5 
+
+Follow these steps to set it up locally:
 
 ### Prerequisites
 
