@@ -5,7 +5,7 @@ from django.http import HttpResponse, JsonResponse
 from datetime import datetime 
 import json
 
-def hello_word(request):
+def hello_world(request):
     """ Return a greeting"""
     import pdb; pdb.set_trace()
     return HttpResponse('Oh hi, current server time is {now} '.format(
